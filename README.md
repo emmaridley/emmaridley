@@ -11,4 +11,4 @@ scalable web applications.
 
 Most of my professional work is in private client repositories.
 
-📫 [LinkedIn](https://linkedin.com/in/reridley/)
+[LinkedIn](https://linkedin.com/in/reridley/)
