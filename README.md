@@ -9,4 +9,6 @@ scalable web applications.
   enterprise sites, and still care about getting it right
 - **Quality:** Vitest, Playwright, CI with GitHub Actions, code reviews
 
+Most of my professional work is in private client repositories.
+
 📫 [LinkedIn](https://linkedin.com/in/reridley/)
