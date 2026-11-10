@@ -1,4 +1,4 @@
-# Hi, I'm Emma 👋
+# Hi, I'm Emma
 
 Senior Frontend Engineer based in Edinburgh, with 15 years building accessible,
 scalable web applications.
